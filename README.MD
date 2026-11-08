@@ -1,6 +1,16 @@
-# Repositório utilizado para organização e versionamento de trabalhos, código, projetos e atividades da faculdade
+# Faculdade
 
+Repositório destinado à organização e ao armazenamento
+de materiais desenvolvidos durante a graduação em
+Sistemas de Informação.
 
-Regras para organização de trabalhos
+## Organização
 
-Adicionar README para cada pasta de trabalho, colocando nome e RA dos integrantes do grupo
+Cada diretório representa uma disciplina da faculdade.
+
+Os diretórios poderão conter:
+- Anotações
+- Exercícios
+- Trabalhos acadêmicos
+- Projetos
+- Materiais de estudo
